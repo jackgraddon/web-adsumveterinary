@@ -24,7 +24,7 @@ Below are a few pictures of Adsum's new webpage.
 
 ## Live Site
 
-The live site can be found [here](https://www.adsumveterinary.com/).
+The live site can be found [here](https://www.adsumrelief.com/).
 
 ## Technologies Used
 
